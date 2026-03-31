@@ -28,3 +28,13 @@ Evaluated the trained Logistic Regression model on test data using accuracy and 
 - Learned that changing train-test split size can affect model performance.
 
 ### [`suv_logistic_model.ipynb`](./suv_logistic_model.ipynb) (Scroll Down)
+
+
+
+## Part C - Interview Ready
+
+### Solutions in :- [interview_answers.md](./interview_answers.md)
+
+## Part D - AI Augmented
+
+### Solutions in :- [ai_augmented.md](./ai_augmented.md)
