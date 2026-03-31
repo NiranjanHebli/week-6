@@ -1,4 +1,4 @@
-# Day 25 - AM & PM - Logistics Regression
+# Day 30 - AM & PM - Logistics Regression
 
 ## Part A - Concept Application
 
