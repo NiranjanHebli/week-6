@@ -14,4 +14,6 @@ This repo contains assignments given in week-6. The assignments are written in P
 
 [`Day 30 - AM and PM - Assignment`](day30/logistics-regression/README.md)
 
+[`Day 32 - AM - Assignment`](day32/decision_trees/README.md)
+
 
