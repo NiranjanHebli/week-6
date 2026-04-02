@@ -19,7 +19,8 @@ This task predicts loan approval using Decision Tree and Random Forest on synthe
 
 
 ## Part B - Stretch Problem 
-wThis task compares ExtraTreesClassifier and RandomForestClassifier on the loan approval dataset. 
+
+This task compares ExtraTreesClassifier and RandomForestClassifier on the loan approval dataset. 
 
 ## Key Learnings
 
