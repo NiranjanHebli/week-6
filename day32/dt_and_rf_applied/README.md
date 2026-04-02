@@ -10,20 +10,25 @@ This task involves building a insurance fraud prediction pipeline using scikit-l
 - Decision Trees help with explainability, while Random Forest improves performance.
 - Cost-sensitive evaluation helps align model choice with business impact.
 
-## File
+## File:-
 
 ### [`insurance.ipynb`](./insurance.ipynb)
 
 
 ## Part B - Stretch Problem 
 
+This task focused on understanding ensemble learning methods, specifically bagging and boosting. How bagging trains multiple models independently to reduce variance, while boosting builds models sequentially to correct previous errors and reduce bias. 
 
 ## Key Learnings
 
+- Bagging trains models independently and combines predictions
+- Boosting trains models sequentially to improve weak learners
+- Boosting usually improves accuracy but is more sensitive to noise
 
-## Files:- 
 
-- ### [``](./) (Scroll Down)
+## File:- 
+
+### [`baggin_vs_boosting.md`](./bagging_vs_boosting.md)
 
 
 ## Part C - Interview Ready
