@@ -19,13 +19,22 @@ This task predicts loan approval using Decision Tree and Random Forest on synthe
 
 
 ## Part B - Stretch Problem 
-
+wThis task compares ExtraTreesClassifier and RandomForestClassifier on the loan approval dataset. 
 
 ## Key Learnings
 
+- Extra Trees uses random split thresholds, while Random Forest searches for the best split.
+- Extra Trees usually trains faster because split calculation is simpler.
+Random Forest often gives more stable predictions on small datasets.
+- Extra Trees can reduce overfitting through additional randomness.
+Both models perform similarly well for loan approval classification.
 
-### [`loan_approval.ipynb`](./loan_approval.ipynb) (Scroll Down)
+## Files:- 
 
+- ### [`loan_approval.ipynb`](./loan_approval.ipynb) (Scroll Down)
+
+For Comparison:-
+- ### [`extra_trees_comparison.md`](./extra_trees_comparison.md)
 
 ## Part C - Interview Ready
 
@@ -34,3 +43,4 @@ This task predicts loan approval using Decision Tree and Random Forest on synthe
 ## Part D - AI Augmented
 
 ### Solutions in :- [ai_augmented.md](./ai_augmented.md)
+
