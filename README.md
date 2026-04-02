@@ -16,4 +16,7 @@ This repo contains assignments given in week-6. The assignments are written in P
 
 [`Day 32 - AM - Assignment`](day32/decision_trees/README.md)
 
+[`Day 32 - PM - Assignment`](day32/dt_and_rf_applied/README.md)
+
+
 

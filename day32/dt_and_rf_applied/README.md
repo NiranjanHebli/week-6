@@ -28,7 +28,7 @@ This task focused on understanding ensemble learning methods, specifically baggi
 
 ## File:- 
 
-### [`baggin_vs_boosting.md`](./bagging_vs_boosting.md)
+### [`bagging_vs_boosting.md`](./bagging_vs_boosting.md)
 
 
 ## Part C - Interview Ready
