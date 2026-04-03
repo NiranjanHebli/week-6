@@ -20,13 +20,18 @@ This task created a machine learning cheat sheet notebook covering eight algorit
 
 ## Part B - Stretch Problem 
 
+This task implements text classification using TF-IDF + LinearSVC on 4 categories of the 20 Newsgroups dataset. Logistic Regression was also evaluated for comparison. The exercise demonstrates building modular pipelines for reproducible text classification experiments.
 
 ## Key Learnings
 
+- LinearSVC handles high dimensional sparse text effectively.
+- TF-IDF improves model performance by converting text into numeric features.
+- Logistic Regression performs similarly to SVM on text data.
+- Modular pipelines make experiments reproducible and easy to extend.
 
 ## File:- 
 
-### [``](./) 
+### [`text_classification.ipynb`](./text_classification.ipynb) 
 
 
 ## Part C - Interview Ready
