@@ -20,5 +20,5 @@ This repo contains assignments given in week-6. The assignments are written in P
 
 [`Day 33 - AM - Assignment`](day33/svm_and_knn/README.md)
 
-[`Day 33 - PM - Assignment`](day33/)
+[`Day 33 - PM - Assignment`](day33/full_week_comparison/README.md)
 
