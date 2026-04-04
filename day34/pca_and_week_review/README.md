@@ -18,14 +18,19 @@ This task involved building a complete Week 6 ML review notebook covering major 
 
 ## Part B - Stretch Problem 
 
+In this task, we implemented image compression using PCA by decomposing each RGB channel separately and reconstructing the image using different numbers of principal components. Compared compressed outputs visually and evaluated performance using compression ratio and mean squared error (MSE).
 
 ## Key Learnings
 
+- PCA reduces image dimensionality by preserving the most important variance in fewer components.
+- Lower n_components increases compression but causes more information loss.
+- Higher n_components improves reconstruction quality with lower MSE.
+- Compression ratio and MSE together help balance storage efficiency and image fidelity.
 
 
 ## File:- 
 
-### [``](./) 
+### [`image_compression.ipynb`](./image_compression.ipynb) 
 
 ## Part C - Interview Ready
 
