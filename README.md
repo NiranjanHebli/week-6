@@ -22,3 +22,6 @@ This repo contains assignments given in week-6. The assignments are written in P
 
 [`Day 33 - PM - Assignment`](day33/full_week_comparison/README.md)
 
+[`Day 34 - AM - Assignment`](day34/clustering/README.md)
+
+[`Day 34 - PM - Assignment`](day33/)
