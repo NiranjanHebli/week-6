@@ -19,12 +19,19 @@ This task perform unsupervised clustering on the Iris dataset by removing target
 
 ## Part B - Stretch Problem 
 
+This task explored hierarchical clustering using AgglomerativeClustering from scikit-learn and applied it to the Iris dataset with n_clusters=3. A dendrogram was generated using SciPy to visualize how samples merge step by step. The clustering results were then evaluated using ARI and compared with K-Means clustering to understand which method better matched the true species groups
+
 ## Key Learnings
+
+- Agglomerative clustering builds clusters bottom up by merging nearest samples or groups iteratively.
+- Dendrograms help visualize hierarchical relationships and cluster formation clearly.
+- Unlike K-Means, hierarchical clustering does not depend on centroid initialization.
+- ARI comparison showed how different clustering strategies affect alignment with true labels.
+- On the Iris dataset, Agglomerative Clustering can sometimes produce slightly better ARI than K-Means depending on linkage choice.
 
 ## File:- 
 
-### [``](./)  (Scroll Down)
-
+### [`iris_clustering.ipynb`](./iris_clustering.ipynb) (Scroll Down)
 
 ## Part C - Interview Ready
 
